@@ -1,0 +1,7 @@
+Dependencies
+Makefile
+*.vcxproj
+*.vcxproj.user
+*.sln
+Binaries
+.vs
